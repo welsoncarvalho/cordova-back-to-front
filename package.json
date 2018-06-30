@@ -1,0 +1,20 @@
+{
+  "name": "back-to-front-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "back-to-front-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "echo",
+    "plugin",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT"
+}
